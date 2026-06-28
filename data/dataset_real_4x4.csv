@@ -1,0 +1,17 @@
+a_id,b_id,score,a_nombre,b_nombre,poblacion_alcaldia,camas_hospital,distancia_km
+A1,B1,0.7354,Iztapalapa,Hospital General de Mexico,1835486,1050,11.37
+A1,B2,0.4264,Iztapalapa,INER,1835486,390,12.54
+A1,B3,0.4939,Iztapalapa,Hospital Juarez de Mexico,1835486,600,16.17
+A1,B4,0.4512,Iztapalapa,Hospital Gea Gonzalez,1835486,450,12.86
+A2,B1,0.4546,Gustavo A. Madero,Hospital General de Mexico,1173351,1050,9.98
+A2,B2,0.0530,Gustavo A. Madero,INER,1173351,390,23.20
+A2,B3,0.3040,Gustavo A. Madero,Hospital Juarez de Mexico,1173351,600,2.96
+A2,B4,0.0786,Gustavo A. Madero,Hospital Gea Gonzalez,1173351,450,23.41
+A3,B1,0.2766,Alvaro Obregon,Hospital General de Mexico,759137,1050,9.39
+A3,B2,-0.0270,Alvaro Obregon,INER,759137,390,9.86
+A3,B3,0.0184,Alvaro Obregon,Hospital Juarez de Mexico,759137,600,16.37
+A3,B4,0.0008,Alvaro Obregon,Hospital Gea Gonzalez,759137,450,9.80
+A4,B1,0.1607,Tlalpan,Hospital General de Mexico,699928,1050,21.08
+A4,B2,-0.0347,Tlalpan,INER,699928,390,7.47
+A4,B3,-0.1045,Tlalpan,Hospital Juarez de Mexico,699928,600,28.98
+A4,B4,-0.0059,Tlalpan,Hospital Gea Gonzalez,699928,450,7.28
