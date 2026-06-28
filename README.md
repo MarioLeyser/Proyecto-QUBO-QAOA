@@ -96,8 +96,8 @@ $$E(\mathbf{x}) = -\sum_{i,j} S_{ij}\,x_{ij} + \lambda_A \sum_i \left(\sum_j x_{
 con $\lambda_A = \lambda_B = 5.0 > \max(S_{ij}) = 0.7354$.
 
 **Nota sobre penalización:** con $\lambda = 5$ el mínimo global del QUBO (−30.74)
-corresponde a un estado infactible. Esto es una limitación conocida: la garantía teórica
-estricta requiere $\lambda > \text{score\_óptimo\_total}$. El pipeline de permutaciones y
+corresponde a un estado infactible. Esto es una limitación conocida: la garantía teórica estricta requiere $\lambda > \text{score óptimo total}$. 
+El pipeline de permutaciones y
 el algoritmo húngaro garantizan el óptimo factible de forma independiente, por lo que
 el resultado final es correcto.
 
